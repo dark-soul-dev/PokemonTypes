@@ -1,0 +1,92 @@
+{
+    "1": {
+        "effective": [],
+        "not-effective": [13],
+        "cannot-hit": [14],
+        "color": "#ada593"
+    },
+    "2": {
+        "effective": [5, 6, 12],
+        "not-effective": [2, 3, 13, 15],
+        "cannot-hit": [],
+        "color": "#f75231"
+    },
+    "3": {
+        "effective": [2, 9, 13],
+        "not-effective": [3, 5, 15],
+        "cannot-hit": [],
+        "color": "#3d99f9"
+    },
+    "4": {
+        "effective": [3, 10],
+        "not-effective": [4, 5, 15],
+        "cannot-hit": [9],
+        "color": "#ffc73e"
+    },
+    "5": {
+        "effective": [3, 9, 13],
+        "not-effective": [2, 5, 8, 10, 12, 15],
+        "cannot-hit": [],
+        "color": "#7bce52"
+    },
+    "6": {
+        "effective": [5, 10, 15],
+        "not-effective": [3, 6],
+        "cannot-hit": [],
+        "color": "#5acee7"
+    },
+    "7": {
+        "effective": [1, 6, 13],
+        "not-effective": [8, 10, 11, 12],
+        "cannot-hit": [14],
+        "color": "#a45239"
+    },
+    "8": {
+        "effective": [5, 12],
+        "not-effective": [8, 9, 13, 14],
+        "cannot-hit": [],
+        "color": "#b55aa5"
+    },
+    "9": {
+        "effective": [2, 4, 8, 13],
+        "not-effective": [5, 12],
+        "cannot-hit": [10],
+        "color": "#d6b55a"
+    },
+    "10": {
+        "effective": [5, 7, 12],
+        "not-effective": [4, 10],
+        "cannot-hit": [],
+        "color": "#9cadf7"
+    },
+    "11": {
+        "effective": [7, 8],
+        "not-effective": [7],
+        "cannot-hit": [],
+        "color": "#fd73a5"
+    },
+    "12": {
+        "effective": [5, 8, 11],
+        "not-effective": [2, 7, 10, 14],
+        "cannot-hit": [],
+        "color": "#acbe34"
+    },
+    "13": {
+        "effective": [2, 6, 10, 12],
+        "not-effective": [7, 9],
+        "cannot-hit": [],
+        "color": "#bca459"
+    },
+    "14": {
+        "effective": [14],
+        "not-effective": [],
+        "cannot-hit": [],
+        "color": "#6362b4"
+    },
+    "15": {
+        "effective": [15],
+        "not-effective": [],
+        "cannot-hit": [],
+        "color": "#7c6be7"
+    }
+}
