@@ -1,0 +1,28 @@
+body {
+	font: 15px helvetica, sans-serif;
+	background: #333;
+	color: lightgray;
+}
+
+a {
+	font-weight: bold;
+	color: white;
+}
+
+table {
+	/*      top rgt bot left */
+	margin: 0px 15px 15px 0px;
+}
+
+th {
+	font-size: 20px;
+}
+
+td {
+	font-size: 18px;
+}
+
+.type {
+	font-size: 18px;
+	font-weight: bold;
+}
